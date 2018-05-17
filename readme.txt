@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+wwp is a version control system.
+wwp is free software.
