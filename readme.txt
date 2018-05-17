@@ -1,2 +1,2 @@
 wwp is a version control system.
-wwp is free software.
+lyting is free software.
